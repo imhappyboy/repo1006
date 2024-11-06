@@ -7,3 +7,5 @@
         "VString": "info101"
     }
 ]
+{提交bin文件.  [path1001/PA1002b201.bin]. 其VSHA1=f74da4e7942801eb94e85ece924001a312b86e35. 其BSHA1=089c95f2b556bfae2914865bf80f32388994576e.  其SHA256=332beb1119182a4b5f301c4fcc1095fccbb00224d0eb7b519ac73a3253db2585.}
+]
