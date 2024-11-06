@@ -33,3 +33,6 @@
 ,
 {"FileName": "PA1002b201.bin", "VSHA1": "8eb2827a5e4841beb5e79803cf1a3c85a6c01ea8", "VSHA2": "8f66583d0f7fe3cddcf598aad2ad613e9ce66f25", "VString": "VString1"}
 ]
+,
+{"FileName": "PA1002b201.bin", "VSHA1": "ca906b29d904291baf4ef2300edb1949cd27f5d8", "VSHA2": "c57becfb6b75a2ad1ee4b64c58f169b6b0b368a6", "VString": "VString1"}
+]
