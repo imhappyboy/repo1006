@@ -1,0 +1,9 @@
+[
+    {
+        "FileName": "path1001/PA1002b200.bin",
+        "VSHA1": "111111117e7b7e81d103e09af32277d8a87bfffc",
+        "VSHA2": "12222222f05b6a8f86888f5f5d78bc51ac0775f4",
+        "VSHA3": "13333333f47d55b793466e47ae3784912086a1add1364038f1dd93b91b3d570a",
+        "VString": "info101"
+    }
+]
