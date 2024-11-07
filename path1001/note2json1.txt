@@ -3,45 +3,30 @@
         "FileName": "path1001/PA1002b200.bin",
         "VSHA1": "111111117e7b7e81d103e09af32277d8a87bfffc",
         "VSHA2": "12222222f05b6a8f86888f5f5d78bc51ac0775f4",
-        "VSHA3": "13333333f47d55b793466e47ae3784912086a1add1364038f1dd93b91b3d570a",
         "VString": "info101"
     }
 ,
-{提交bin文件.  [path1001/PA1002b201.bin,. 其VSHA1=f74da4e7942801eb94e85ece924001a312b86e35. 其BSHA1=089c95f2b556bfae2914865bf80f32388994576e.  其SHA256=332beb1119182a4b5f301c4fcc1095fccbb00224d0eb7b519ac73a3253db2585.}
-,
--e ,
 {"FileName": "PA1002b201.bin", "VSHA1": "66505110f1e8958df38c62d77a31d16967071be5", "VSHA2": "6e6eac0fab8d3a1416413baaa41ee9bd9dfd6eb7", "VString": "VString1"}
 ,
--e ,
 {"FileName": "PA1002b201.bin", "VSHA1": "8eb2827a5e4841beb5e79803cf1a3c85a6c01ea8", "VSHA2": "8f66583d0f7fe3cddcf598aad2ad613e9ce66f25", "VString": "VString1"}
-,
 ,
 {"FileName": "PA1002b201.bin", "VSHA1": "84f6967a98ffb66d0cb0436ec93208f37ff09cbd", "VSHA2": "2d0a45f29b6ad147f513b1461efad382f8949931", "VString": "VString1"}
 ,
-,
 {"FileName": "PA1002b201.bin", "VSHA1": "38cdfcd13a554fe3bbe87408066bceaa8db8d5c1", "VSHA2": "51b845aeeea28be11f0143da1077980cb7ef8428", "VString": "VString1"}
-,
 ,
 {"FileName": "PA1002b201.bin", "VSHA1": "b2e930d45f03a3555aa4636499a41046f81e33b6", "VSHA2": "27277fe73368f9fd1abb43c952d84f9476a4dd33", "VString": "VString1"}
 ,
-,
 {"FileName": "PA1002b201.bin", "VSHA1": "0efa1f12bd02671d4fb8baffcd22ea9eae39897c", "VSHA2": "79c48a4c6000bea7a932e1640b4a400a59077e60", "VString": "VString1"}
-,
 ,
 {"FileName": "PA1002b201.bin", "VSHA1": "ae0944249cca5123b8e6a77847a791686f8ab04b", "VSHA2": "3bba483605dfb97a2723ebd470e8318f42eb919d", "VString": "VString1"}
 ,
-,
 {"FileName": "PA1002b201.bin", "VSHA1": "8eb2827a5e4841beb5e79803cf1a3c85a6c01ea8", "VSHA2": "8f66583d0f7fe3cddcf598aad2ad613e9ce66f25", "VString": "VString1"}
-,
 ,
 {"FileName": "PA1002b201.bin", "VSHA1": "ca906b29d904291baf4ef2300edb1949cd27f5d8", "VSHA2": "c57becfb6b75a2ad1ee4b64c58f169b6b0b368a6", "VString": "VString1"}
 ,
-,
 {"FileName": "PA1002b201.bin", "VSHA1": "010d872d30365e3b6f105c261c9ac5b60810149e", "VSHA2": "904617495894a9450f9daff578459178be8c743f", "VString": "VString1"}
 ,
-,
 {"FileName": "PA1002b201.bin", "VSHA1": "080edeb60bad664a57376db4abf1886d724233d5", "VSHA2": "fa62f5173ad9cc3e868773ba656492bc25037f8b", "VString": "VString1"}
-,
 ,
 {"FileName": "PA1002b201.bin", "VSHA1": "1c0e09155d97588d15d6a9751b2b969cac55b718", "VSHA2": "84de125f502cc40b7fd5f2a892c7f48ef77fad33", "VString": "VString1"}
 ,
@@ -52,4 +37,6 @@
 {"FileName": "PA1002b201.bin", "VSHA1": "b8e0a1f62a970fb80fdcc821469905fa36192318", "VSHA2": "6fbff8ee9b24c4b10c79bb8f07880e00368232f8", "VString": "VString1"}
 ,
 {"FileName": "PA1002b201.bin", "VSHA1": "14324982e76f838a370f8d71362885985f484d23", "VSHA2": "04298ecc1f12ff6fe48df06db37c947798f88619", "VString": "VString1"}
+,
+{"FileName": "PA1002b201.bin", "VSHA1": "8abe1779656f22f01d24614f5ef173695f7c4833", "VSHA2": "56f0667edad69f2da642237e803419e23c213c1b", "VString": "VString1"}
 ]
